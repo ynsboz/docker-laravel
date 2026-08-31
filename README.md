@@ -1,4 +1,4 @@
-# How to use this REMINDER
+# How to use this (reminder)
 - $ composer create-project --prefer-dist laravel/laravel:9.19 src
 - $ cd src
 - $ /src > composer require laravel/jetstream
